@@ -59,9 +59,11 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
-
----
+*is a technique used in computer networks to send data efficiently and broken into smaller unit its  take different route ressamblede data
+* It isa unique number address device connected internet making digital home adrress
+*Each Lego piece (packet) is delivered safely Without TCP/IP, emails, videos, or messages loss never reach to right person HyperText Transfer Protocol
+* HTTP=  HyperText Transfer Protoco is a communication between your web browser and a website’s server.
+*HTTPS=HyperText Transfer Protocol Secure it store information private and secure
 
 # 🏗️ Task 3: Application Architecture & Stack
 
