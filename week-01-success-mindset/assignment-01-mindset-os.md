@@ -33,9 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
-
----
+Most people in tech believe that career security comes from specializing deeply in a single tool or framework. I strongly disagree. Specialized tools become obsolete quickly as automation and AI advance. Real, long-term security in tech doesn't come from mastering a specific tool, but from building a flexible mindset, mastering core fundamentals like networking and logic, and knowing how to adapt, learn, and solve complex problems under uncertainty faster than the environment changes around you. Tools are temporary; adaptability is permanent
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
 
@@ -55,37 +53,34 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Work expands to fill the time allotted, and without strict deadlines, intensity drops to near zero.
 
 ### Evidence from my life
+I tried studying without setting dedicated focus blocks and ended up spending four hours accomplishing what could be done in one. When I introduced 60-minute strict timer blocks with zero phone access, my output tripled in half the time.
 
-Add your answer here...
+Truth #2
 
----
+
+
 
 ## Truth #2
 
 ### Truth
 
-Add your answer here...
+Theory without immediate hands-on execution creates an illusion of competence that vanishes during real implementation.
 
 ### Evidence from my life
-
-Add your answer here...
-
----
+I spent days watching video tutorials on networking and server configurations feeling confident, but when I opened a terminal to execute commands manually, I hit syntax errors and felt lost. Real learning only began once I broke things in code and fixed them.
 
 ## Truth #3
 
 ### Truth
 
-Add your answer here...
+Consistency on average beats short-lived bursts of extreme effort every single time.
 
 ### Evidence from my life
+I used to pull 10-hour study marathons on weekends followed by days of total inactivity, which led to burnout and fast forgetting. When I switched to 1-2 hours of daily uninterrupted work, my long-term retention and project progression scaled significantly.
 
-Add your answer here...
-
----
 
 # Assignment 3. What does your 2.0 version look like?
 
