@@ -25,7 +25,8 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](<img width="476" height="382" alt="Screenshot 2026-09-16 115425" src="https://github.com/user-attachments/assets/def4ff03-f379-4f27-b7b4-964ce5f48860" />
+)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
