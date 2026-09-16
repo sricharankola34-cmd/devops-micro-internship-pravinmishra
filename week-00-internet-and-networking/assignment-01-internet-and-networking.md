@@ -149,7 +149,7 @@ In **50–100 words**, explain in your own words:
 ## AnWhat is DNS (Domain Name System)??
 1)DNS is a standard for Domain Name Sy translates human-friendly domain names (like epicreads.com) stem it is a phonebook of the internet and it resolve the corresponding a once ip adress  is dircet connected to the host server to fetch the webpage content.
 2)CNAME (Canonical Name) Record: Aliases one domain name to another canonical domain name
-
+it structure design like human readable name
 # 💻 Task 5: Visual Studio Code Setup (Hands-on)
 
 ## Your Task
