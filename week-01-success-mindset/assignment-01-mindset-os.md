@@ -147,16 +147,23 @@ Hashtags:
 #DMIByPravinMishra #AgenticAI #DevOps
 
 ## Your Article
+🚀 From Student to Systems Architect: How Sricharan Built a High-Impact DevOps Career
 
-Add your answer here...
+By the time the DevOps Micro Internship (DMI) by Pravin Mishra entered its alumni archives, it had become clear that the program was an inflection point for Sricharan. Over a 5-year period, Sricharan transitioned from foundational cloud concepts to building production-grade infrastructure for enterprise systems. 🌐
+
+⚙️ Mastering the Fundamentals
+Sricharan started by mastering hands-on engineering fundamentals. Early work was documented across GitHub repositories showcasing end-to-end continuous integration and deployment pipelines using GitHub Actions 🔄, containerized microservices via Docker 🐳, and production Kubernetes deployments managed through Terraform infrastructure-as-code 🛠️. Every project was published with clean commit histories and comprehensive README files. 📝
+
+📊 Driving System Reliability
+Within three years of completing the internship, Sricharan led cloud reliability initiatives, building automated observability stacks using Prometheus and Grafana 📉 that reduced system downtime by 35%. Beyond individual technical contributions, Sricharan authored detailed technical guides on Medium and LinkedIn ✍️, breaking down complex network protocols and cloud architecture for entry-level engineers. 💡
+
+💼 Scaling to Senior Leadership
+By year five, Sricharan relocated into a Senior DevOps & Cloud Engineer role 🏢, managing automated GitOps delivery pipelines and architecting resilient hybrid-cloud systems ☁️. What set Sricharan apart was not just technical skills, but consistency—systems built, knowledge shared, and communities empowered. ✨
+
 
 ### Public Link
 
-Paste your link here:
-
-`Add your URL here`
-
----
+https://lnkd.in/p/dgj7xwCq
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
 
