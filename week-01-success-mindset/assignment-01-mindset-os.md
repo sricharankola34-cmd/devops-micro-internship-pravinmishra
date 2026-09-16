@@ -375,11 +375,7 @@ Dedicated Sunday morning focus block (9:00 AM to 1:00 PM) strictly reserved for 
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
-
-`Add your URL here`
-
----
+https://lnkd.in/p/dgj7xwCq
 
 ## 10. Proof of Work
 
