@@ -106,8 +106,10 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* The diagram you uploaded is a neat way of showing the difference between two-tier and three-tier application architectures
+  
+* Two-tier: You (frontend) walk straight into the kitchen (database) and grab ingredients yourself.
+* Three-tier: You (frontend) place an order with the waiter (backend), who talks to the chef (database). Cleaner, safer, and more organized.
 
 ### Backend
 
