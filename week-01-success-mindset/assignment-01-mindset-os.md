@@ -187,15 +187,13 @@ This is about self-awareness, not judgment.
 
 **Yes / No**
 
-If Yes:
+If Yes:yes
 
 **What emotion did you feel?** (minimum 50–100 words)
 
 ## Answer
+When I took a shortcut in past technical assignments by copying pre-written configuration templates without understanding the underlying logic, the immediate emotion was anxiety and hidden guilt. While it saved time in the moment, it created constant fear of being asked to explain the code during reviews. The underlying stress of knowing my results were unearned far outweighed the minor convenience of taking the shortcut, proving that unearned outcomes destroy confidence.
 
-Add your answer here...
-
----
 
 # Assignment 5. What are 10 non-fiction books you plan to read in the next 1 year?
 
@@ -218,17 +216,27 @@ Choose books that improve:
 * leadership
 
 ## Book List
+ 
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1.The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt
+
+2.Accelerate: The Science of Lean Software and DevOps by Nicole Forsgren, Jez Humble, and Gene Kim
+
+3.The Effective Executive by Peter F. Drucker
+
+4.Essentialism: The Disciplined Pursuit of Less by Greg McKeown
+
+5.Site Reliability Engineering: How Google Runs Production Systems by Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
+
+6.Mindset: The New Psychology of Success by Carol S. Dweck
+
+7.Thinking in Systems: A Primer by Donella H. Meadows
+
+8.Soft Skills: The Software Developer's Life Manual by John Sonmez
+
+9.Can't Hurt Me: Master Your Mind and Defy the Odds by David Goggins
+
+10.The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin
 
 ---
 
