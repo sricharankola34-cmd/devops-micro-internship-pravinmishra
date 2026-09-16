@@ -26,16 +26,16 @@
     <meta name="bingbot" content="max-image-preview:large, archive">
   
 <!----><!---->        <meta name="locale" content="en_US">
-<!---->        <meta id="config" data-app-version="1.2.2092" data-call-tree-id="AAZbmwvaB4QuOD8XQ77NQQ==" data-multiproduct-name="feedcontent-guest-frontend" data-service-name="feedcontent-guest-frontend" data-browser-id="6856188c-bcfc-428a-8e81-167a453f566d" data-is-bot="false" data-enable-page-view-heartbeat-tracking data-page-instance="urn:li:page:d_public_post;FDQMN62SSNidt94EgFupuw==" data-disable-jsbeacon-pagekey-suffix="false" data-member-id="0" data-should-use-full-url-in-pve-path="true" data-dna-member-lix-treatment="enabled" data-human-member-lix-treatment="enabled" data-dfp-member-lix-treatment="control" data-sync-apfc-headers-lix-treatment="control" data-sync-apfc-cb-lix-treatment="control" data-recaptcha-v3-integration-lix-value="control" data-network-interceptor-lix-value="control" data-is-epd-audit-event-enabled="false" data-is-feed-sponsored-tracking-kill-switch-enabled="false" data-sequence-auto-redirect-before-request-enabled="true">
+<!---->        <meta id="config" data-app-version="1.2.2092" data-call-tree-id="AAZbmwlbFUSZxoJXCnu6Kg==" data-multiproduct-name="feedcontent-guest-frontend" data-service-name="feedcontent-guest-frontend" data-browser-id="6856188c-bcfc-428a-8e81-167a453f566d" data-is-bot="false" data-enable-page-view-heartbeat-tracking data-page-instance="urn:li:page:d_public_post;F5HVO/F/SH+Kzz6Bas6f3Q==" data-disable-jsbeacon-pagekey-suffix="false" data-member-id="0" data-should-use-full-url-in-pve-path="true" data-dna-member-lix-treatment="enabled" data-human-member-lix-treatment="enabled" data-dfp-member-lix-treatment="control" data-sync-apfc-headers-lix-treatment="control" data-sync-apfc-cb-lix-treatment="control" data-recaptcha-v3-integration-lix-value="control" data-network-interceptor-lix-value="control" data-is-epd-audit-event-enabled="false" data-is-feed-sponsored-tracking-kill-switch-enabled="false" data-sequence-auto-redirect-before-request-enabled="true">
 
-        <link rel="canonical" href="https://www.linkedin.com/posts/kola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t">
+        <link rel="canonical" href="https://www.linkedin.com/posts/kola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M">
 <!----><!---->
 <!---->
 <!---->
-          <meta property="al:android:url" content="https://www.linkedin.com/posts/kola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t">
+          <meta property="al:android:url" content="https://www.linkedin.com/posts/kola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M">
           <meta property="al:android:package" content="com.linkedin.android">
           <meta property="al:android:app_name" content="LinkedIn">
-          <meta property="al:ios:url" content="https://www.linkedin.com/posts/kola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t">
+          <meta property="al:ios:url" content="https://www.linkedin.com/posts/kola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M">
           <meta property="al:ios:app_store_id" content="288429040">
           <meta property="al:ios:app_name" content="LinkedIn">
 
@@ -79,56 +79,41 @@
     
 
         
-  <meta name="description" content="🚀 Week 00 Complete: Internet, Networking &amp; DevOps Foundations!
-Excited to kick off my journey with the DevOps Micro Internship! Here is a quick breakdown of what I built and learned this week:
-🔹 ChatGPT as a Learning Assistant: Formulated structured prompts to break down networking protocols using real-world analogies.
-🔹 Networking Fundamentals: Explored how global data moves using Packet Switching, IP Addresses, TCP/IP, and HTTP/HTTPS.
-🔹 Architecture &amp; Design: Mapped out Two-Tier vs. Three-Tier application architectures (Frontend, Backend, Database).
-🔹 DNS Concepts: Deep dived into Domain Name Systems and mapping domains like epicreads.com to host server IPs using A Records.
-🔹 Environment Setup: Configured Visual Studio Code and verified local terminal workflows.
-📸 Swipe to check out my VS Code setup and Application Architecture diagram!
-">
-  <meta name="twitter:description" content="🚀 Week 00 Complete: Internet, Networking &amp; DevOps Foundations!
-Excited to kick off my journey with the DevOps Micro Internship! Here is a quick breakdown of what I built and learned this week:
-🔹 ChatGPT as a Learning Assistant: Formulated structured prompts to break down networking protocols using real-world analogies.
-🔹 Networking Fundamentals: Explored how global data moves using Packet Switching, IP Addresses, TCP/IP, and HTTP/HTTPS.
-🔹 Architecture &amp; Design: Mapped out Two-Tier vs. Three-Tier application architectures (Frontend, Backend, Database).
-🔹 DNS Concepts: Deep dived into Domain Name Systems and mapping domains like epicreads.com to host server IPs using A Records.
-🔹 Environment Setup: Configured Visual Studio Code and verified local terminal workflows.
-📸 Swipe to check out my VS Code setup and Application Architecture diagram!
-">
-  <meta property="og:description" content="🚀 Week 00 Complete: Internet, Networking &amp; DevOps Foundations!
-Excited to kick off my journey with the DevOps Micro Internship! Here is a quick breakdown of what I built and learned this week:
-🔹 ChatGPT as a Learning Assistant: Formulated structured prompts to break down networking protocols using real-world analogies.
-🔹 Networking Fundamentals: Explored how global data moves using Packet Switching, IP Addresses, TCP/IP, and HTTP/HTTPS.
-🔹 Architecture &amp; Design: Mapped out Two-Tier vs. Three-Tier application architectures (Frontend, Backend, Database).
-🔹 DNS Concepts: Deep dived into Domain Name Systems and mapping domains like epicreads.com to host server IPs using A Records.
-🔹 Environment Setup: Configured Visual Studio Code and verified local terminal workflows.
-📸 Swipe to check out my VS Code setup and Application Architecture diagram!
-">
+  <meta name="description" content="🚀 From Student to Systems Architect: How Sricharan Built a High-Impact DevOps Career
+By the time the DevOps Micro Internship (DMI) by Pravin Mishra entered its alumni archives, it had become clear that the program was an inflection point for Sricharan. Over a 5-year period, Sricharan transitioned from foundational cloud concepts to building production-grade infrastructure for enterprise systems. 🌐
+⚙️ Mastering the Fundamentals Sricharan started by mastering hands-on engineering fundamentals. Early work was documented across GitHub repositories showcasing end-to-end continuous integration and deployment pipelines using GitHub Actions 🔄, containerized microservices via Docker 🐳, and production Kubernetes deployments managed through Terraform infrastructure-as-code 🛠️. Every project was published with clean commit histories and comprehensive README files. 📝
+📊 Driving System Reliability Within three years of completing the internship, Sricharan led cloud reliability initiatives, building automated observability stacks using Prometheus and Grafana 📉 that reduced system downtime by 35%. Beyond individual technical contributions, Sricharan authored detailed technical guides on Medium and LinkedIn ✍️, breaking down complex network protocols and cloud architecture for entry-level engineers. 💡
+💼 Scaling to Senior Leadership By year five, Sricharan relocated into a Senior DevOps &amp; Cloud Engineer role 🏢, managing automated GitOps delivery pipelines and architecting resilient hybrid-cloud systems ☁️. What set Sricharan apart was not just technical skills, but consistency—systems built, knowledge shared, and communities empowered. ✨">
+  <meta name="twitter:description" content="🚀 From Student to Systems Architect: How Sricharan Built a High-Impact DevOps Career
+By the time the DevOps Micro Internship (DMI) by Pravin Mishra entered its alumni archives, it had become clear that the program was an inflection point for Sricharan. Over a 5-year period, Sricharan transitioned from foundational cloud concepts to building production-grade infrastructure for enterprise systems. 🌐
+⚙️ Mastering the Fundamentals Sricharan started by mastering hands-on engineering fundamentals. Early work was documented across GitHub repositories showcasing end-to-end continuous integration and deployment pipelines using GitHub Actions 🔄, containerized microservices via Docker 🐳, and production Kubernetes deployments managed through Terraform infrastructure-as-code 🛠️. Every project was published with clean commit histories and comprehensive README files. 📝
+📊 Driving System Reliability Within three years of completing the internship, Sricharan led cloud reliability initiatives, building automated observability stacks using Prometheus and Grafana 📉 that reduced system downtime by 35%. Beyond individual technical contributions, Sricharan authored detailed technical guides on Medium and LinkedIn ✍️, breaking down complex network protocols and cloud architecture for entry-level engineers. 💡
+💼 Scaling to Senior Leadership By year five, Sricharan relocated into a Senior DevOps &amp; Cloud Engineer role 🏢, managing automated GitOps delivery pipelines and architecting resilient hybrid-cloud systems ☁️. What set Sricharan apart was not just technical skills, but consistency—systems built, knowledge shared, and communities empowered. ✨">
+  <meta property="og:description" content="🚀 From Student to Systems Architect: How Sricharan Built a High-Impact DevOps Career
+By the time the DevOps Micro Internship (DMI) by Pravin Mishra entered its alumni archives, it had become clear that the program was an inflection point for Sricharan. Over a 5-year period, Sricharan transitioned from foundational cloud concepts to building production-grade infrastructure for enterprise systems. 🌐
+⚙️ Mastering the Fundamentals Sricharan started by mastering hands-on engineering fundamentals. Early work was documented across GitHub repositories showcasing end-to-end continuous integration and deployment pipelines using GitHub Actions 🔄, containerized microservices via Docker 🐳, and production Kubernetes deployments managed through Terraform infrastructure-as-code 🛠️. Every project was published with clean commit histories and comprehensive README files. 📝
+📊 Driving System Reliability Within three years of completing the internship, Sricharan led cloud reliability initiatives, building automated observability stacks using Prometheus and Grafana 📉 that reduced system downtime by 35%. Beyond individual technical contributions, Sricharan authored detailed technical guides on Medium and LinkedIn ✍️, breaking down complex network protocols and cloud architecture for entry-level engineers. 💡
+💼 Scaling to Senior Leadership By year five, Sricharan relocated into a Senior DevOps &amp; Cloud Engineer role 🏢, managing automated GitOps delivery pipelines and architecting resilient hybrid-cloud systems ☁️. What set Sricharan apart was not just technical skills, but consistency—systems built, knowledge shared, and communities empowered. ✨">
 
 
-    <meta property="og:title" content="🚀 Week 00 Complete: Internet, Networking &amp;amp; DevOps Foundations!
-Excited to kick off my journey with the DevOps Micro Internship! Here is a quick breakdown of what I built and learned this week:
-🔹… | kola sricharan">
-    <meta name="twitter:title" content="🚀 Week 00 Complete: Internet, Networking &amp;amp; DevOps Foundations!
-Excited to kick off my journey with the DevOps Micro Internship! Here is a quick breakdown of what I built and learned this week:
-🔹… | kola sricharan">
-    <title>🚀 Week 00 Complete: Internet, Networking &amp; DevOps Foundations!
-Excited to kick off my journey with the DevOps Micro Internship! Here is a quick breakdown of what I built and learned this week:
-🔹… | kola sricharan</title>
+    <meta property="og:title" content="🚀 From Student to Systems Architect: How Sricharan Built a High-Impact DevOps Career
+By the time the DevOps Micro Internship (DMI) by Pravin Mishra entered its alumni archives, it had become clear… | kola sricharan">
+    <meta name="twitter:title" content="🚀 From Student to Systems Architect: How Sricharan Built a High-Impact DevOps Career
+By the time the DevOps Micro Internship (DMI) by Pravin Mishra entered its alumni archives, it had become clear… | kola sricharan">
+    <title>🚀 From Student to Systems Architect: How Sricharan Built a High-Impact DevOps Career
+By the time the DevOps Micro Internship (DMI) by Pravin Mishra entered its alumni archives, it had become clear… | kola sricharan</title>
 
       <meta name="twitter:card" content="summary_large_image">
 
-    <meta property="lnkd:url" content="https://www.linkedin.com/feed/update/urn:li:activity:7505922659214389248">
+    <meta property="lnkd:url" content="https://www.linkedin.com/feed/update/urn:li:activity:7505939551664717824">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://www.linkedin.com/posts/kola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t">
+    <meta property="og:url" content="https://www.linkedin.com/posts/kola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M">
     <meta property="og:site_name" content="LinkedIn">
       <meta property="og:locale" content="en_US">
-    <meta property="og:image" content="https://media.licdn.com/dms/image/v2/D4D22AQFMOsfzNRaqJQ/feedshare-shrink_800/B4DaCpk4kPIoAc-/0/1789551413797?e=2147483647&amp;v=beta&amp;t=B3_yhv0_KHNMj97a93nTVcjTzyH7v1VBWLBRkcbKa18">
-    <meta name="twitter:image" content="https://media.licdn.com/dms/image/v2/D4D22AQFMOsfzNRaqJQ/feedshare-shrink_800/B4DaCpk4kPIoAc-/0/1789551413797?e=2147483647&amp;v=beta&amp;t=B3_yhv0_KHNMj97a93nTVcjTzyH7v1VBWLBRkcbKa18">
+    <meta property="og:image" content="https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7">
+    <meta name="twitter:image" content="https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7">
     <meta name="twitter:site" content="@linkedin">
-    <meta property="twitter:url" content="https://www.linkedin.com/posts/kola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t">
+    <meta property="twitter:url" content="https://www.linkedin.com/posts/kola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M">
 <!---->      <meta name="clientSideIngraphs" content="1" data-gauge-metric-endpoint="/feedcontent-guest/api/ingraphs/gauge" data-counter-metric-endpoint="/feedcontent-guest/api/ingraphs/counter">
   
 
@@ -137,7 +122,7 @@ Excited to kick off my journey with the DevOps Micro Internship! Here is a quick
         
     
       <script type="application/ld+json">
-        {"@context":"http://schema.org","@type":"SocialMediaPosting","@id":"https://www.linkedin.com/posts/kola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t","datePublished":"2026-09-16T09:36:55.255Z","headline":"🚀 Week 00 Complete: Internet, Networking & DevOps Foundations!","comment":[],"commentCount":0,"image":{"url":"https://media.licdn.com/dms/image/v2/D4D22AQFMOsfzNRaqJQ/feedshare-shrink_800/B4DaCpk4kPIoAc-/0/1789551413797?e=2147483647&v=beta&t=B3_yhv0_KHNMj97a93nTVcjTzyH7v1VBWLBRkcbKa18","@type":"ImageObject","description":"graphical user interface","caption":"graphical user interface"},"articleBody":"🚀 Week 00 Complete: Internet, Networking & DevOps Foundations!\nExcited to kick off my journey with the DevOps Micro Internship! Here is a quick breakdown of what I built and learned this week:\n🔹 ChatGPT as a Learning Assistant: Formulated structured prompts to break down networking protocols using real-world analogies.\n🔹 Networking Fundamentals: Explored how global data moves using Packet Switching, IP Addresses, TCP/IP, and HTTP/HTTPS.\n🔹 Architecture & Design: Mapped out Two-Tier vs. Three-Tier application architectures (Frontend, Backend, Database).\n🔹 DNS Concepts: Deep dived into Domain Name Systems and mapping domains like epicreads.com to host server IPs using A Records.\n🔹 Environment Setup: Configured Visual Studio Code and verified local terminal workflows.\n📸 Swipe to check out my VS Code setup and Application Architecture diagram!","author":{"name":"kola sricharan","url":"https://in.linkedin.com/in/kola-sricharan-6b4707435","@type":"Person","interactionStatistic":{"@type":"InteractionCounter","interactionType":"http://schema.org/FollowAction","userInteractionCount":0}},"interactionStatistic":[{"@type":"InteractionCounter","interactionType":"http://schema.org/LikeAction","userInteractionCount":0},{"@type":"InteractionCounter","interactionType":"https://schema.org/CommentAction","userInteractionCount":0}],"hasPart":{"@type":"WebPageElement","isAccessibleForFree":false,"cssSelector":".details"}}
+        {"@context":"http://schema.org","@type":"SocialMediaPosting","@id":"https://www.linkedin.com/posts/kola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M","datePublished":"2026-09-16T10:44:02.728Z","headline":"🚀 From Student to Systems Architect: How Sricharan Built a High-Impact DevOps Career","comment":[],"commentCount":0,"articleBody":"🚀 From Student to Systems Architect: How Sricharan Built a High-Impact DevOps Career\nBy the time the DevOps Micro Internship (DMI) by Pravin Mishra entered its alumni archives, it had become clear that the program was an inflection point for Sricharan. Over a 5-year period, Sricharan transitioned from foundational cloud concepts to building production-grade infrastructure for enterprise systems. 🌐\n⚙️ Mastering the Fundamentals Sricharan started by mastering hands-on engineering fundamentals. Early work was documented across GitHub repositories showcasing end-to-end continuous integration and deployment pipelines using GitHub Actions 🔄, containerized microservices via Docker 🐳, and production Kubernetes deployments managed through Terraform infrastructure-as-code 🛠️. Every project was published with clean commit histories and comprehensive README files. 📝\n📊 Driving System Reliability Within three years of completing the internship, Sricharan led cloud reliability initiatives, building automated observability stacks using Prometheus and Grafana 📉 that reduced system downtime by 35%. Beyond individual technical contributions, Sricharan authored detailed technical guides on Medium and LinkedIn ✍️, breaking down complex network protocols and cloud architecture for entry-level engineers. 💡\n💼 Scaling to Senior Leadership By year five, Sricharan relocated into a Senior DevOps & Cloud Engineer role 🏢, managing automated GitOps delivery pipelines and architecting resilient hybrid-cloud systems ☁️. What set Sricharan apart was not just technical skills, but consistency—systems built, knowledge shared, and communities empowered. ✨","author":{"name":"kola sricharan","url":"https://in.linkedin.com/in/kola-sricharan-6b4707435","@type":"Person","interactionStatistic":{"@type":"InteractionCounter","interactionType":"http://schema.org/FollowAction","userInteractionCount":0}},"interactionStatistic":[{"@type":"InteractionCounter","interactionType":"http://schema.org/LikeAction","userInteractionCount":0},{"@type":"InteractionCounter","interactionType":"https://schema.org/CommentAction","userInteractionCount":0}],"hasPart":{"@type":"WebPageElement","isAccessibleForFree":false,"cssSelector":".details"}}
       </script>
   
   
@@ -186,7 +171,7 @@ Excited to kick off my journey with the DevOps Micro Internship! Here is a quick
     
     <form class="google-auth" action="https://www.linkedin.com/uas/login-submit" method="post">
       <input name="loginCsrfParam" value="6856188c-bcfc-428a-8e81-167a453f566d" type="hidden">
-        <input name="session_redirect" value="https://www.linkedin.com/posts/kola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t" type="hidden">
+        <input name="session_redirect" value="https://www.linkedin.com/posts/kola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M" type="hidden">
       <input name="trk" value="public_post_google-one-tap-submit" type="hidden">
         <div class="google-one-tap__module hidden fixed flex flex-col items-center top-[70px] right-[20px] z-[9999]">
           <div class="google-auth__tnc-container hidden relative top-2 bg-color-background-container-tint pl-2 pr-1 pt-2 pb-3 w-[375px] rounded-md shadow-2xl">
@@ -373,21 +358,21 @@ Excited to kick off my journey with the DevOps Micro Internship! Here is a quick
   
 
       
-      <a class="nav__button-secondary btn-secondary-emphasis ml-3 btn-md" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fkola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t&amp;fromSignIn=true&amp;trk=public_post_nav-header-signin" data-tracking-control-name="public_post_nav-header-signin" data-tracking-will-navigate data-tracking-client-ingraph>
+      <a class="nav__button-secondary btn-secondary-emphasis ml-3 btn-md" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fkola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M&amp;fromSignIn=true&amp;trk=public_post_nav-header-signin" data-tracking-control-name="public_post_nav-header-signin" data-tracking-will-navigate data-tracking-client-ingraph>
           Sign in
       </a>
 
 
           
     
-    <a class="nav__button-tertiary btn-primary btn-md" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fkola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t&amp;trk=public_post_nav-header-join" data-tracking-control-name="public_post_nav-header-join" data-test-live-nav-primary-cta data-tracking-will-navigate data-tracking-client-ingraph>
+    <a class="nav__button-tertiary btn-primary btn-md" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fkola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M&amp;trk=public_post_nav-header-join" data-tracking-control-name="public_post_nav-header-join" data-test-live-nav-primary-cta data-tracking-will-navigate data-tracking-client-ingraph>
       Join now
 <!---->    </a>
 
 
 <!---->
 <!---->
-          <a aria-label="Sign in" class="nav__link-person papabear:hidden mamabear:hidden" data-tracking-control-name="public_post_nav-header-signin" data-tracking-will-navigate href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fkola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t&amp;fromSignIn=true&amp;trk=public_post_nav-header-signin">
+          <a aria-label="Sign in" class="nav__link-person papabear:hidden mamabear:hidden" data-tracking-control-name="public_post_nav-header-signin" data-tracking-will-navigate href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fkola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M&amp;fromSignIn=true&amp;trk=public_post_nav-header-signin">
             
       <div role="img" aria-label class="inline-block relative hue-web-entity__image bg-cover bg-center
           rounded-[50%]
@@ -432,7 +417,7 @@ kola sricharan’s Post</h1>
         container-lined
         pt-1.5 main-feed-activity-card
           
-           main-feed-activity-card-with-comments" data-activity-urn="urn:li:activity:7505922659214389248" data-featured-activity-urn="urn:li:activity:7505922659214389248" data-attributed-urn="urn:li:share:7505922658073714688">
+           main-feed-activity-card-with-comments" data-activity-urn="urn:li:activity:7505939551664717824" data-featured-activity-urn="urn:li:activity:7505939551664717824" data-attributed-urn="urn:li:share:7505939548938559489">
 <!---->
       
 <!---->        
@@ -516,7 +501,7 @@ kola sricharan’s Post</h1>
     
     
 
-      5h
+      4h
   
 <!---->                  </time>
 <!---->              </span>
@@ -574,7 +559,7 @@ kola sricharan’s Post</h1>
 
     
 
-    <a href="/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t&amp;trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=POST&amp;_f=guest-reporting" data-tracking-control-name="public_post_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate data-item-type="semaphore" data-semaphore-content-type="POST" data-semaphore-content-urn="urn:li:activity:7505922659214389248" data-semaphore-tracking-prefix="public_post_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+    <a href="/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M&amp;trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=POST&amp;_f=guest-reporting" data-tracking-control-name="public_post_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate data-item-type="semaphore" data-semaphore-content-type="POST" data-semaphore-content-urn="urn:li:activity:7505939551664717824" data-semaphore-tracking-prefix="public_post_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
                       <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
@@ -600,15 +585,11 @@ kola sricharan’s Post</h1>
             
   <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
     <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-        " dir="ltr" data-test-id="main-feed-activity-card__commentary">🚀 Week 00 Complete: Internet, Networking &amp; DevOps Foundations!
-Excited to kick off my journey with the DevOps Micro Internship! Here is a quick breakdown of what I built and learned this week:
-🔹 ChatGPT as a Learning Assistant: Formulated structured prompts to break down networking protocols using real-world analogies.
-🔹 Networking Fundamentals: Explored how global data moves using Packet Switching, IP Addresses, TCP/IP, and HTTP/HTTPS.
-🔹 Architecture &amp; Design: Mapped out Two-Tier vs. Three-Tier application architectures (Frontend, Backend, Database).
-🔹 DNS Concepts: Deep dived into Domain Name Systems and mapping domains like <a class="link" href="https://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fepicreads%2Ecom&amp;urlhash=ZqzY&amp;trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate>epicreads.com</a> to host server IPs using A Records.
-🔹 Environment Setup: Configured Visual Studio Code and verified local terminal workflows.
-📸 Swipe to check out my VS Code setup and Application Architecture diagram!
-</p>
+        " dir="ltr" data-test-id="main-feed-activity-card__commentary">🚀 From Student to Systems Architect: How Sricharan Built a High-Impact DevOps Career
+By the time the DevOps Micro Internship (DMI) by Pravin Mishra entered its alumni archives, it had become clear that the program was an inflection point for Sricharan. Over a 5-year period, Sricharan transitioned from foundational cloud concepts to building production-grade infrastructure for enterprise systems. 🌐
+⚙️ Mastering the Fundamentals Sricharan started by mastering hands-on engineering fundamentals. Early work was documented across GitHub repositories showcasing end-to-end continuous integration and deployment pipelines using GitHub Actions 🔄, containerized microservices via Docker 🐳, and production Kubernetes deployments managed through Terraform infrastructure-as-code 🛠️. Every project was published with clean commit histories and comprehensive README files. 📝
+📊 Driving System Reliability Within three years of completing the internship, Sricharan led cloud reliability initiatives, building automated observability stacks using Prometheus and Grafana 📉 that reduced system downtime by 35%. Beyond individual technical contributions, Sricharan authored detailed technical guides on Medium and LinkedIn ✍️, breaking down complex network protocols and cloud architecture for entry-level engineers. 💡
+💼 Scaling to Senior Leadership By year five, Sricharan relocated into a Senior DevOps &amp; Cloud Engineer role 🏢, managing automated GitOps delivery pipelines and architecting resilient hybrid-cloud systems ☁️. What set Sricharan apart was not just technical skills, but consistency—systems built, knowledge shared, and communities empowered. ✨</p>
 <!---->  </div>
 
 
@@ -617,45 +598,7 @@ Excited to kick off my journey with the DevOps Micro Internship! Here is a quick
 
         
             
-      
-    
-    
-    
-
-      <ul class="grid grid-cols-6 grid-rows-[60%_40%] w-main-feed-card-media feed-images-content list-none pl-0
-          
-          " data-test-id="feed-images-content">
-              <li class="bg-color-background-container-tint text-[0px]
-                  col-span-full row-span-full 
-                  
-                  relative
-                  " data-test-id="feed-images-content__list-item" data-position="0" style>
-                  <img class="lazy-load w-full object-cover object-center
-                      h-full babybear:max-h-[400px]
-                      " data-delayed-url="https://media.licdn.com/dms/image/v2/D4D22AQFMOsfzNRaqJQ/feedshare-shrink_800/B4DaCpk4kPIoAc-/0/1789551413797?e=2147483647&amp;v=beta&amp;t=B3_yhv0_KHNMj97a93nTVcjTzyH7v1VBWLBRkcbKa18" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/921ynb2z53z33mhm3061qvjag" alt="graphical user interface">
-<!---->                  
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <button class="c2pa-button flex items-center justify-center absolute top-0 left-0 z-1 w-[48px] h-[48px]" data-test-id="public_post__c2pa-overlay" data-tracking-control-name="public_post_c2pa-cta" data-id="view-c2pa" data-feed-control="c2pa_button" data-feed-action-type="viewContentCredentials" data-ai="AI was used to generate all of this image" data-app="App or device used: Google C2PA Core Generator Library" data-issued-by="Content Credentials issued by: Google LLC" data-issued-at="Content Credentials issue date: Sep 16, 2026">
-      <span class="flex items-center justify-center rounded-full h-[24px] w-[24px] bg-color-background-scrim">
-        <label class="sr-only">View C2PA information</label>
-        <img class="c2pa-button__credential-icon h-[16px] w-[16px]" data-svg-class-name="c2pa-button__credential-icon-svg h-[24px] w-[24px]" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/dur0ryw0e9uscxa9b6zqvgvfs" alt>
-      </span>
-    </button>
-  
-              </li>
-      </ul>
 <!---->  
-  
                   
 
       
@@ -700,7 +643,7 @@ Excited to kick off my journey with the DevOps Micro Internship! Here is a quick
         flex flex-wrap justify-around social-action-bar--guest
          !m-0">
       
-  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fkola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t&amp;trk=public_post_like-cta" data-tracking-control-name="public_post_like-cta" data-tracking-will-navigate>
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fkola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M&amp;trk=public_post_like-cta" data-tracking-control-name="public_post_like-cta" data-tracking-will-navigate>
     <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
     </icon>
     <span class="social-action-bar__button-text ">
@@ -709,7 +652,7 @@ Excited to kick off my journey with the DevOps Micro Internship! Here is a quick
   </a>
 
         
-  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fkola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t&amp;trk=public_post_comment-cta" data-tracking-control-name="public_post_comment-cta" data-tracking-will-navigate>
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fkola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M&amp;trk=public_post_comment-cta" data-tracking-control-name="public_post_comment-cta" data-tracking-will-navigate>
     <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
     </icon>
     <span class="social-action-bar__button-text ">
@@ -733,7 +676,7 @@ Excited to kick off my journey with the DevOps Micro Internship! Here is a quick
 
     
 
-    <div class="collapsible-dropdown flex items-center relative hyphens-auto social-share inline-block relative select-none share-button flex-1" data-share-message="Share" data-share-url="https://www.linkedin.com/posts/kola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t?utm_source=li_share&amp;utm_content=feedcontent&amp;utm_medium=g_dt_web">
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto social-share inline-block relative select-none share-button flex-1" data-share-message="Share" data-share-url="https://www.linkedin.com/posts/kola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M?utm_source=li_share&amp;utm_content=feedcontent&amp;utm_medium=g_dt_web">
           
         <button aria-expanded="false" class="social-share__button social-share__button-square
             social-share-button social-action-bar__button
@@ -814,7 +757,7 @@ Excited to kick off my journey with the DevOps Micro Internship! Here is a quick
     
 
     <p class="feed-cta-banner__text border-t-1 border-color-surface-border border-solid p-3 text-center text-md text-color-text-low-emphasis">
-        To view or add a comment, <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fkola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t&trk=public_post_feed-cta-banner-cta" target="" aria-label="To view or add a comment, sign in" data-tracking-control-name="public_post_feed-cta-banner-cta" data-tracking-will-navigate="true" class="feed-cta-banner__link link">sign in</a>
+        To view or add a comment, <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fkola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M&trk=public_post_feed-cta-banner-cta" target="" aria-label="To view or add a comment, sign in" data-tracking-control-name="public_post_feed-cta-banner-cta" data-tracking-will-navigate="true" class="feed-cta-banner__link link">sign in</a>
     </p>
   
         
@@ -880,7 +823,7 @@ Excited to kick off my journey with the DevOps Micro Internship! Here is a quick
           <a class="public-post-author-card__view-profile inline-block text-md btn-sm btn-tertiary text-color-text-low-emphasis" href="https://in.linkedin.com/in/kola-sricharan-6b4707435?trk=public_post_follow-view-profile" data-tracking-control-name="public_post_follow-view-profile" data-tracking-will-navigate>
             View Profile
           </a>
-          <a class="public-post-author-card__follow inline-block mx-0.5 text-md btn-sm btn-secondary text-color-text-low-emphasis" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A7505922659214389248&amp;trk=public_post_follow" data-tracking-control-name="public_post_follow" data-tracking-will-navigate>
+          <a class="public-post-author-card__follow inline-block mx-0.5 text-md btn-sm btn-secondary text-color-text-low-emphasis" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A7505939551664717824&amp;trk=public_post_follow" data-tracking-control-name="public_post_follow" data-tracking-will-navigate>
             <icon class="inline-block w-3 h-[17px] align-middle" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/6uk1ucphcxnwu1tvokzreyk9r"></icon>
             <span class>Connect</span>
           </a>
@@ -1501,7 +1444,7 @@ Excited to kick off my journey with the DevOps Micro Internship! Here is a quick
     </div>
   
 
-        <input name="session_redirect" value="https://www.linkedin.com/posts/kola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t" type="hidden">
+        <input name="session_redirect" value="https://www.linkedin.com/posts/kola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M" type="hidden">
 
 <!---->      </div>
 
@@ -1543,7 +1486,7 @@ Excited to kick off my journey with the DevOps Micro Internship! Here is a quick
                     </div>
 
                   <p class="contextual-sign-in-modal__join-now m-auto font-sans text-md text-center text-color-text my-2">
-                    New to LinkedIn? <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fkola-sricharan-6b4707435_week-00-complete-internet-networking-activity-7505922659214389248-Y82t&trk=public_post_contextual-sign-in-modal_join-link" data-tracking-control-name="public_post_contextual-sign-in-modal_join-link" data-tracking-will-navigate="true" class="contextual-sign-in-modal__join-link">Join now</a>
+                    New to LinkedIn? <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fkola-sricharan-6b4707435_from-student-to-systems-architect-how-activity-7505939551664717824-Zj6M&trk=public_post_contextual-sign-in-modal_join-link" data-tracking-control-name="public_post_contextual-sign-in-modal_join-link" data-tracking-will-navigate="true" class="contextual-sign-in-modal__join-link">Join now</a>
                   </p>
 
                   
@@ -1609,7 +1552,7 @@ Excited to kick off my journey with the DevOps Micro Internship! Here is a quick
   
   
 
-        <code id="activityUrn" style="display: none"><!--"urn:li:activity:7505922659214389248"--></code>
+        <code id="activityUrn" style="display: none"><!--"urn:li:activity:7505939551664717824"--></code>
         
     
 
