@@ -76,13 +76,13 @@ EpicReads bookstore has two application versions:
 * Frontend
 * Database
 
-### Three-Tier Application
+### Three-Tier Apllication
 
 * Frontend
 * Backend
 * Database
 
-## Your Task
+## Your TaskThree-Tier Application
 
 * Draw simple diagrams (hand-drawn or tool-based such as draw.io)
 * Label each layer clearly
@@ -235,44 +235,49 @@ Hashtags:
 Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your public DMI progress page (your graded badge page).
 ---
 
-## LinkedIn Post URL
+## LinkedIn Post 
+https://lnkd.in/p/dC_ciFtF
 
-Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
-```
-
----
 
 ## LinkedIn Post Backup Copy
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 Week 00 Complete: Internet, Networking & DevOps Foundations!
+
+Excited to kick off my journey with the DevOps Micro Internship! Here is a quick breakdown of what I built and learned this week:
+
+🔹 ChatGPT as a Learning Assistant: Formulated structured prompts to break down networking protocols using real-world analogies.
+
+🔹 Networking Fundamentals: Explored how global data moves using Packet Switching, IP Addresses, TCP/IP, and HTTP/HTTPS.
+
+🔹 Architecture & Design: Mapped out Two-Tier vs. Three-Tier application architectures (Frontend, Backend, Database).
+
+🔹 DNS Concepts: Deep dived into Domain Name Systems and mapping domains like epicreads.com to host server IPs using A Records.
+
+🔹 Environment Setup: Configured Visual Studio Code and verified local terminal workflows.
+
+📸 Swipe to check out my VS Code setup and Application Architecture diagram!
 
 ---
 
 # Reflection – Week 0
 
 ### What did you find easy?
+In this assignment protocol networking  Packet Switching IP Address TCP/IP  HTTP/HTTPS Domain Name & DNS its is simply to find
 
-Add your answer here...
 
----
 
 ### What was difficult?
+in this assignment   i was difficult to find Two-Tier Application three-tier application daigram screen shot visual Studio Code Setup Publish Your Assignment as a LinkedIn Post
 
-Add your answer here...
 
----
+
+
 
 ### What will you improve next week?
-
-Add your answer here...
-
----
-
+i improve important technical  skills and using of terminal, git, and GitHub  
 ## 📌 About DMI & CloudAdvisory
 
 DevOps Micro Internship (DMI) is a project-based DevOps program run by Pravin Mishra (The CloudAdvisory) focused on real-world execution, systems thinking, and career readiness.
