@@ -145,13 +145,10 @@ epicreads.com
 In **50–100 words**, explain in your own words:
 
 1. What is DNS (Domain Name System)?
-2. Which DNS record type should be used to connect the domain to the given IP, and why?
 
-## Answer
-
-Add your answer here...
-
----
+## AnWhat is DNS (Domain Name System)??
+1)DNS is a standard for Domain Name Sy translates human-friendly domain names (like epicreads.com) stem it is a phonebook of the internet and it resolve the corresponding a once ip adress  is dircet connected to the host server to fetch the webpage content.
+2)
 
 # 💻 Task 5: Visual Studio Code Setup (Hands-on)
 
