@@ -34,12 +34,10 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
-## What I Learned (2–3 lines)
-
-Add your answer here...
-
----
-
+## What I Learned (2–3 lines).
+protocol= protocol ia simply set of rules communicate each other
+ servers and devices can understand each other even if they are built by different companies.
+in a  computer communicate http and web browser 
 # 🌐 Task 2: Internet and Networking
 
 ## Scenario
