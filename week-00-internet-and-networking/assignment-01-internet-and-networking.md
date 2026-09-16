@@ -59,7 +59,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-*is a technique used in computer networks to send data efficiently and broken into smaller unit its  take different route to ressamblede data
+*Is a technique used in computer networks to send data efficiently and broken into smaller unit its  take different route to ressamblede data
 * It isa unique number address device connected internet making digital home adrress
 *Each Lego piece (packet) is delivered safely Without TCP/IP, emails, videos, or messages loss never reach to right person
 * HTTP=  HyperText Transfer Protoco is a communication between your web browser and a website’s server.
