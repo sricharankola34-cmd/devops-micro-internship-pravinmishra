@@ -308,9 +308,9 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer:yes
 
-Add your answer here...
+
 
 ---
 
@@ -327,22 +327,22 @@ Example:
 * Sun: Weekly review
 
 #### My Weekly Routine
+*Saturday Evening: DMI Live Session + Hands-on execution (3-4 hours)
 
-Add your answer here...
+*Sunday Half-Day: Deep work assignment completion, documentation, and GitHub push
 
----
+*Mon–Fri Evenings: 60-minute daily review, troubleshooting, and reading
 
 ### Focus Blocks
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Saturday: 6:00 PM – 10:00 PM
+
+Sunday: 9:00 AM – 2:00 PM
 
 #### How Many Sessions Per Week?
-
-Add your answer here...
-
----
+2 major deep-work sessions (Weekend) + 3 quick review sessions (Weekdays).
 
 ### Distraction Rules
 
@@ -354,23 +354,24 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Phone placed in another room during strict focus blocks.
 
----
+All social media and communication tabs closed when working inside VS Code.
+
+No non-internship browsing during dedicated Sunday focus hours.
 
 # Reflection – Week 1
 
 ### Biggest insight I got about myself this week
+Procrastinating on starting assignments due to overthinking the solution before writing any code.
 
-Add your answer here...
 
 ### My biggest weakness/loop I noticed
-
-Add your answer here...
+Procrastinating on starting assignments due to overthinking the solution before writing any code.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Dedicated Sunday morning focus block (9:00 AM to 1:00 PM) strictly reserved for DMI practical assignments.
 
 ### LinkedIn Post
 
