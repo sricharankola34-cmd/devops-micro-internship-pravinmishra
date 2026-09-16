@@ -265,16 +265,26 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Deep work learning hours per week
+
+*GitHub commits and repository updates per week
+
+*DevOps assignments and projects shipped
+
+*Technical blog posts and LinkedIn updates published
+
+*Daily sleep quality and total duration
+
+*Physical exercise and workout frequency per week
+
+*Weekly screen time and social media usage limit
+
+*Technical documentation pages written
+
+*Monthly savings and professional education investments
+
+*Number of networking connections built per month
+
 
 ---
 
