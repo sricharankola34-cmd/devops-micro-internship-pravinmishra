@@ -113,13 +113,14 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* node.js
+* python,java
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* PotgreSQL
+* MongoDB
+
 
 ---
 
