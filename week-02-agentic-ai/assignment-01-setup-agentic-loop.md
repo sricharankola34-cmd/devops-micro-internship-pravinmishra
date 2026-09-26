@@ -57,9 +57,7 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 
 #### Screent 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
-Add your screenshot here.
-
----
+<img width="1487" height="742" alt="image" src="https://github.com/user-attachments/assets/5a184d4c-f884-4b10-8268-253c745ff967" />
 
 # Task 4 — Share Your First Agentic AI Achievement
 
