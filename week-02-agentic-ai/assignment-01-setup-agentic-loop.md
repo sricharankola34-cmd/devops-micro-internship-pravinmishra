@@ -50,12 +50,12 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 ### Evidence
 
 #### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
+<img width="1491" height="772" alt="image" src="https://github.com/user-attachments/assets/13ab1640-5db5-43ee-82a7-331eef65d95b" />
 
-Add your screenshot here.
 
----
 
-#### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
+
+#### Screent 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
 Add your screenshot here.
 
