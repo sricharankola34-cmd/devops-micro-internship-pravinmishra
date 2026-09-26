@@ -84,9 +84,7 @@ Share your completed Agentic AI session and DMI Leaderboard progress on LinkedIn
 
 Paste your forked repository URL here:
 
-`Add your URL here`
-
----
+https://github.com/sricharankola34-cmd/devops-micro-internship-pravinmishra.git
 
 # Completion Checklist
 
