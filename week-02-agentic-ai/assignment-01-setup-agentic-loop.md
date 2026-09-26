@@ -104,7 +104,6 @@ DevOps Micro Internship (DMI) is a project-based DevOps program run by Pravin Mi
 It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
-
 ## 📌 Resources
 
 - 🌐 DMI Official Website: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme  
