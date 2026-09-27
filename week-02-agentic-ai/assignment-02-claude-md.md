@@ -20,9 +20,8 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-Add your screenshot here.
+<img width="1217" height="726" alt="image" src="https://github.com/user-attachments/assets/cb9451f3-6742-42dc-8b87-0756dc4e965a" />
 
----
 
 # Task 2 — Generate the First Draft with /init
 
