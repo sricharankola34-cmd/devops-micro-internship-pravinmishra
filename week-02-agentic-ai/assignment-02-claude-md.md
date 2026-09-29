@@ -108,10 +108,7 @@ Add your screenshot here.
 ## GitHub Repository URL
 
 Paste your forked repository URL here:
-
-`Add your URL here`
-
----
+https://github.com/sricharankola34-cmd/Ultimate-Agentic-DevOps-with-Claude-Code
 
 # Completion Checklist
 
