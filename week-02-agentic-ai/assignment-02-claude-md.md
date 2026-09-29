@@ -48,9 +48,8 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-Add your screenshot here.
+<img width="1187" height="720" alt="image" src="https://github.com/user-attachments/assets/1ac28e56-6a46-4109-91fc-d02f3eddbbc0" />
 
----
 
 # Task 4 — Test the After State
 
