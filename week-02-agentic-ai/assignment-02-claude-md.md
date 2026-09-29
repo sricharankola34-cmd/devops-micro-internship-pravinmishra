@@ -66,10 +66,8 @@ Add your screenshot here.
 ---
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
+<img width="797" height="415" alt="image" src="https://github.com/user-attachments/assets/1bc0ff1c-8e05-4c06-8734-77c24c57876f" />
 
-Add your screenshot here.
-
----
 
 # Task 5 — Commit and push your changes to your fork in GitHub
 
