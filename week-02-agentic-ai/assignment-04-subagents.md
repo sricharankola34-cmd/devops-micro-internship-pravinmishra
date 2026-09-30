@@ -57,12 +57,16 @@ Think of it like a security inspector 🔍:
 
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
-
-Add your answer here...
-
----
-
-### Evidence
+The security auditor does NOT have the Write tool because it should only check the project, not change it.
+"I found a password stored in this file."
+It should report the problem, rather than changing the file itself.
+This makes the auditor safer because it has read-only access.
+Easy example
+Imagine a teacher checking your assignment:
+Teacher can:
+📖 Read your assignment
+🔍 Find mistakes
+📝 Tell you what to fix### Evidence
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
