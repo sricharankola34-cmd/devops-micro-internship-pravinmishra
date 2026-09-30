@@ -1,3 +1,4 @@
+
 # Assignment 4 — Building Your AI Team
 
 Part of the DevOps Micro Internship (DMI) Cohort with Agentic AI
@@ -19,8 +20,8 @@ Create the `.claude/agents/` directory and add all required agent files.
 ### Evidence
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
+<img width="1196" height="672" alt="image" src="https://github.com/user-attachments/assets/97d5c98b-08d7-4830-b5b0-b1e92f94b127" />
 
-Add your screenshot here.
 
 ---
 
