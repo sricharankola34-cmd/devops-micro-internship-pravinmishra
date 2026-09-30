@@ -32,18 +32,29 @@ Create the `.claude/agents/` directory and add all required agent files.
 Analyze the configuration differences between the three agents and demonstrate understanding of model and tool selection.
 
 ### Written Answers
-
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
+Haiku is a smaller/faster model and typically costs less.
+Sonnet is more capable but costs more.
+The cost optimizer uses Haiku instead of Sonnet because Haiku is cheaper and faster
+For example:
 
-Add your answer here...
-
----
-
+A simple task comes in → use Haiku.
+Haiku can handle the task → less money is spent.
+A difficult task comes in → use Sonnet.
 #### 2. Why does the security auditor NOT have Write in its tools list?
+The security auditor does NOT have the Write tool because it should only check the project, not change it.
+"I found a password stored in this file."
+It should report the problem, rather than changing the file itself.
+This makes the auditor safer because it has read-only access.
 
-Add your answer here...
+Think of it like a security inspector 🔍:
 
----
+👀 Read → It can look at files.
+🔎 Search → It can find security problems.
+❌ Write → It cannot modify files.
+❌ Delete → It cannot remove files.
+
+
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
