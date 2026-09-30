@@ -77,7 +77,8 @@ Teacher can:
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+<img width="1046" height="712" alt="image" src="https://github.com/user-attachments/assets/ce8f473b-05ee-4b0a-b47b-e74cb3cc63cf" />
+
 
 ---
 
