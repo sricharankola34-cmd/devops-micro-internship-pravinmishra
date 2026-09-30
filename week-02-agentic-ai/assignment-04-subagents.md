@@ -70,7 +70,8 @@ Teacher can:
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+<img width="1057" height="757" alt="image" src="https://github.com/user-attachments/assets/6b1fbe9c-acc3-4fbf-953d-75cebc0fd6a4" />
+
 
 ---
 
