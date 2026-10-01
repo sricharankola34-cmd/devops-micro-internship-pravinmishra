@@ -52,11 +52,17 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 
 #### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
 
+<img width="717" height="275" alt="Screenshot 2026-10-01 143418" src="https://github.com/user-attachments/assets/696b32b4-4677-4c4d-ac59-4a92a00cf99e" />
+
+
 
 
 
 
 #### Screent 5 — Claude's response to the second question, showing it ran a command and reported the line count
+
+<img width="473" height="252" alt="Screenshot 2026-10-01 143433" src="https://github.com/user-attachments/assets/4ddb5b28-c077-4578-9977-b8369f38a8e6" />
+
 
 
 # Task 4 — Share Your First Agentic AI Achievement
