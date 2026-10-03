@@ -99,7 +99,7 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+<img width="1042" height="517" alt="image" src="https://github.com/user-attachments/assets/a0398e10-e084-4ab3-be83-83575433cf53" />
 
 ---
 
@@ -112,8 +112,8 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 ### Evidence
 
 #### Screenshot 6 — The full cost optimization report
+<img width="1020" height="492" alt="image" src="https://github.com/user-attachments/assets/02ef9bc5-4a42-45f1-b69a-e557e606cf9e" />
 
-Add your screenshot here.
 
 ---
 
