@@ -94,6 +94,7 @@ Prove the prompt-level hook works by typing a destructive prompt and verifying i
 ### Evidence
 
 #### Screenshot 6 — UserPromptSubmit hook blocking the destructive prompt
+<img width="1077" height="577" alt="image" src="https://github.com/user-attachments/assets/96ea35bb-8cd6-4e72-bc79-4de32ca0ba50" />
 
 ---
 
@@ -106,6 +107,7 @@ Prove the tool-level hook works by asking Claude to execute a dangerous Bash com
 ### Evidence
 
 #### Screenshot 7 — PreToolUse hook blocking terraform destroy
+
 
 ---
 
