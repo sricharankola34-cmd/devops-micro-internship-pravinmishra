@@ -50,7 +50,8 @@ Create a hook that runs before Claude executes Bash commands and blocks dangerou
 
 #### Screenshot 3 — `pre-tool-guard.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
+<img width="986" height="582" alt="image" src="https://github.com/user-attachments/assets/f98056d2-0bfa-447a-bbc4-fef7b06d7adc" />
+
 
 ---
 
