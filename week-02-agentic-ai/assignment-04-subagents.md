@@ -3,7 +3,7 @@
 
 Part of the DevOps Micro Internship (DMI) Cohort with Agentic AI
 
----
+-
 
 ## Purpose
 
