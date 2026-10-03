@@ -151,11 +151,7 @@ https://lnkd.in/p/dY5cGs4Q
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
-
-`Add your URL here`
-
----
+https://github.com/sricharankola34-cmd/devops-micro-internship-pravinmishra
 
 # Completion Checklist
 
