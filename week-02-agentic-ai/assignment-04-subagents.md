@@ -133,14 +133,13 @@ Make sure your published post includes:
 - The three specialized subagents you created
 - Your GitHub repository URL
 - Your DMI Leaderboard progress link
-
+-
 ### Evidence
 
 #### Screenshot 7 — Published LinkedIn post showing your post content and leaderboard progress link visible
+https://lnkd.in/p/dY5cGs4Q
 
-Add your screenshot here.
 
----
 
 # Submission Instructions
 
