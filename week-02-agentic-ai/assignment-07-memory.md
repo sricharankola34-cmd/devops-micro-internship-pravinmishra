@@ -98,10 +98,8 @@ Paste your Linkedin post link here:
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
-
-`Add your URL here`
-
+Paste your forked repository URL her
+https://github.com/sricharankola34-cmd/devops-micro-internship-pravinmishra
 ---
 
 # Completion Checklist
