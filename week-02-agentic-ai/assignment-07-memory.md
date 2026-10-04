@@ -68,7 +68,8 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-Add your screenshot here.
+<img width="687" height="315" alt="image" src="https://github.com/user-attachments/assets/1463e382-5db4-424f-9697-3947fde98625" />
+
 
 ---
 
