@@ -137,7 +137,8 @@ Make sure your published post includes:
 ### Evidence
 
 #### Screenshot 7 — Published LinkedIn post showing your post content and leaderboard progress link visible
-https://lnkd.in/p/dY5cGs4Q
+<img width="690" height="532" alt="image" src="https://github.com/user-attachments/assets/ec05fc7e-82d1-4a41-9237-1c9df340d0b4" />
+
 
 
 
