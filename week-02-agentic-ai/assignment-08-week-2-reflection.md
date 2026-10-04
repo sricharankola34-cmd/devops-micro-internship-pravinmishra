@@ -86,8 +86,7 @@ Paste your LinkedIn post content here
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
-
+www.linkedin.com/in/kola-sricharan-6b4707435
 ---
 
 # Submission Instructions
