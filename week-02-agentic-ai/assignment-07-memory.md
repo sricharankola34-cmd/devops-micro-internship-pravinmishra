@@ -91,8 +91,7 @@ Run three tests that prove Claude remembers what you told it — without you say
 ## Linkedin Post Link
 
 Paste your Linkedin post link here:
-
-`Add your URL here`
+www.linkedin.com/in/kola-sricharan-6b4707435
 
 ---
 
