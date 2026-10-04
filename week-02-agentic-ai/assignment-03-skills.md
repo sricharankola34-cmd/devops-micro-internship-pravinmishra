@@ -97,7 +97,7 @@ https://github.com/sricharankola34-cmd/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ## LinkedIn post URL
 
-Paste your forked repository URL here:
+www.linkedin.com/in/kola-sricharan-6b4707435
 
 `Add your URL here`
 ---
