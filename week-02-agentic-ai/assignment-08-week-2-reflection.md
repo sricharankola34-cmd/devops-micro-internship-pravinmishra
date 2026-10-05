@@ -79,10 +79,9 @@ Share your Week 2 learning publicly on LinkedIn.
 ### Submission Field
 
 LinkedIn Post Content (copy-paste here):
-
+www.linkedin.com/in/kola-sricharan-6b4707435
 ```
-Paste your LinkedIn post content here
-```
+Paste your LinkedIn post content her
 
 ---
 
