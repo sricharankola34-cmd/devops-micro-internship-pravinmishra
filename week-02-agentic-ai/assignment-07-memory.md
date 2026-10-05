@@ -34,13 +34,14 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-Add your screenshot here.
+<img width="837" height="265" alt="image" src="https://github.com/user-attachments/assets/aeb3af18-2936-42cf-b2aa-a86cea387862" />
 
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-Add your screenshot here.
+<img width="837" height="265" alt="image" src="https://github.com/user-attachments/assets/de12e8c8-f568-4e11-81a5-9750d3218afc" />
+
 
 ---
 
