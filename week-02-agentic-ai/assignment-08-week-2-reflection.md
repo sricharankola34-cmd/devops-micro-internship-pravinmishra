@@ -71,7 +71,8 @@ Share your Week 2 learning publicly on LinkedIn.
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+<img width="362" height="632" alt="image" src="https://github.com/user-attachments/assets/adc6e230-64ec-486e-a00b-f7a2f6a8cedc" />
+
 
 ---
 
