@@ -93,8 +93,18 @@ Share your MCP achievement on Facebook or WhatsApp Status and provide evidence o
 ### Evidence
 
 #### Screenshot 6 — Published Facebook post or WhatsApp Status showing your MCP achievement message and leaderboard progress link visible
+🚀 MCP Achievement Unlocked!
 
-Add your screenshot here.
+I successfully connected and verified the **GitHub MCP server** in Claude Code using the `/mcp` command.
+
+This Week 2 learning experience helped me understand how **Model Context Protocol (MCP)** allows AI assistants to connect with external tools and services.
+
+I’m continuing my journey in Agentic AI and DevOps, learning how to build smarter, safer, and more connected AI workflows. 💻🤖
+
+🏆 DMI Leaderboard Progress:
+https://dmi.pravinmishra.com/s/sricharankola34-cmd.htmlc
+
+#AgenticAI #DevOps #MCP #ClaudeCode #DMI #Learning
 
 ---
 
