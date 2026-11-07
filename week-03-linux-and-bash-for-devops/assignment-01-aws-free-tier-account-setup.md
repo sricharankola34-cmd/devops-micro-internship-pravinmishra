@@ -19,22 +19,28 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 ### Answers
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
+An AWS account is a separate container for your AWS resources, settings, and billing. It’s identified by an account ID and has its own security and access controls.
 
-Write your answer here.
+You need one at this stage so you can access AWS services and create the resources needed for the next steps. It also keeps track of usage and costs. Creating an account is free, but some resources you use may incur charges, so enable billing alerts and remove resources when you’re done.
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
+The AWS Free Tier lets new customers try AWS services at no cost within specified limits. AWS currently offers up to $200 in credits: $100 when you sign up, with up to $100 more available as you explore services.
 
-Write your answer here.
+The Free plan lasts up to six months, or until your credits run out—whichever comes first. The account closes automatically at that point unless you upgrade to a Paid plan. 
+---
+
+
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
+Three AWS Free Tier examples (current offers):
 
-Write your answer here.
-
----
+AWS Lambda: 1 million requests and up to 400,000 GB-seconds of compute per month.
+Amazon DynamoDB: 25 GB of storage, plus 25 provisioned read capacity units and 25 write capacity units.
+Amazon Aurora DSQL: 100,000 Distributed Processing Units (DPUs) and 1 GiB of storage per month.
 
 # Task 2 — Create AWS Free Tier Account
 
